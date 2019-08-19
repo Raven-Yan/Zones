@@ -3,9 +3,7 @@ A simple program for fast tilting electron-beam sensitive crystals to zone axes.
 
 To start with, users should download and run the latest 'Zones.exe' in a windows system.
 
-'example_experiment.rar' contains necessary data files of the example shown in the manual.
-
-
+'example_experiment.rar' contains necessary data files of the example shown in the manual. The ‘LTA_inputfile.txt' is an important hkl file, and it contains structure information of the sample.
 
 'experiment_data.txt' records the double-tilt holder position of each pattern.
 'image4.tif' is the SAED pattern taken at the beginning of the experiment, and shall be determined as [113] zone by the program.
