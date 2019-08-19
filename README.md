@@ -1,5 +1,5 @@
 # Zones
-A simple program for fast tilting electron-beam sensitive crystals to zone axes
+A simple program for fast tilting electron-beam sensitive crystals to zone axes.
 
 To start with, users should download and run the latest 'Zones.exe' in a windows system.
 
